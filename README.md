@@ -21,11 +21,6 @@ My name is Etem Senel. I am a junior self-taught frontend developer currently de
 &nbsp;
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
 &nbsp;
-
-<a name="learning-next"></a>
-
-## 📖  What I am currently learning / improving on
-
 [<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />][learning_now_anchor]
@@ -34,6 +29,12 @@ My name is Etem Senel. I am a junior self-taught frontend developer currently de
 &nbsp;
 [<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][learning_next_anchor]
 &nbsp;
+
+<a name="learning-next"></a>
+
+## 📖  What I am currently learning / improving on
+
+
 
 
 
