@@ -1,6 +1,6 @@
 # Hello world 🌎!
 
-My name is Etem Senel. I am a junior self-taught frontend developer currently developing my own projects and keep learning.
+My name is Etem Senel. I am a frontend developer currently developing my own projects and keep learning.
 
 
 ## 🛠  Technologies and tools
@@ -34,7 +34,7 @@ My name is Etem Senel. I am a junior self-taught frontend developer currently de
 
 ## 📖  What I am currently learning / improving on
 
-[<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Sass logo" title="Sass" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python logo" title="Python" height="25" />][learning_next_anchor]
 &nbsp;
 
 
@@ -44,9 +44,8 @@ My name is Etem Senel. I am a junior self-taught frontend developer currently de
 
 
 ## 🔍  Where to find me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sass logo" title="Sass" height="25" href="www.linkedin.com/senel-etem"/>][learning_next_anchor]
-[<img src="
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Sass logo" title="Sass" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin logo logo" title="Linkedin" height="25" href="www.linkedin.com/senel-etem"/>][learning_next_anchor]
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo" title="Gmail" height="25" />][learning_next_anchor]
 
 
 
