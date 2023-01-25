@@ -34,11 +34,17 @@ My name is Etem Senel. I am a junior self-taught frontend developer currently de
 
 ## 📖  What I am currently learning / improving on
 
+[<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Sass logo" title="Sass" height="25" />][learning_next_anchor]
+&nbsp;
+
+
+
 
 
 
 
 ## 🔍  Where to find me
+
 
 
 [tech_tools_anchor]: #bonjour--
