@@ -44,6 +44,12 @@ My name is Etem Senel. I am a junior self-taught frontend developer currently de
 
 
 ## 🔍  Where to find me
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sass logo" title="Sass" height="25" href="www.linkedin.com/senel-etem"/>][learning_next_anchor]
+[<img src="
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Sass logo" title="Sass" height="25" />][learning_next_anchor]
+
+
+
 
 
 
